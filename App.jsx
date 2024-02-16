@@ -21,10 +21,10 @@ import {ProfileCard} from 'verbo-component';
 function App() {
   return (
     <View>
-      <ProfileCard />
-      {/* <Text>Hii</Text> */}
+      {/* <ProfileCard /> */}
+      <Text>Hii</Text>
     </View>
   );
 }
 
-export default App;
+export default ProfileCard;
